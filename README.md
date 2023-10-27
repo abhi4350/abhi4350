@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi4350" alt="abhi4350" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/abhishe14536623?t=lbcy8m2m4dcpvypgeapitw&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/abhishe14536623?t=lbcy8m2m4dcpvypgeapitw&s=09?logo=twitter&style=for-the-badge" alt="https://x.com/abhishe14536623?t=lbcy8m2m4dcpvypgeapitw&s=09" /></a> </p>
+<p align="left">  target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/abhishe14536623?t=lbcy8m2m4dcpvypgeapitw&s=09?logo=twitter&style=for-the-badge" alt="https://x.com/abhishe14536623?t=lbcy8m2m4dcpvypgeapitw&s=09" /></a> </p>
 
 - 🌱 I’m currently learning **Devops**
 
