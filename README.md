@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently working on my **Personal Projects**
 
 - 🤝 I’m looking for new role **Full stack web developer**
 
